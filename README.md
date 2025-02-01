@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20👋,%20I'm%20Youssef%20Elmasry&height=100&section=header"/>
-</p>
-
+<h1 align="center">Hi 👋, I'm Youssef wael</h1>
 <h3 align="center">A passionate Flutter developer From Egypt</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasp2012&label=Profile%20views&color=0e75b6&style=flat" alt="wasp2012" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasp2012" alt="wasp2012" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
@@ -23,8 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasp2012&show_icons=true&locale=en" alt="wasp2012" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasp2012&" alt="wasp2012" /></p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
