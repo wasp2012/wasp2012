@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasp2012&label=Profile%20views&color=0e75b6&style=flat" alt="wasp2012" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasp2012" alt="wasp2012" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
