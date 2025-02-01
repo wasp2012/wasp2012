@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello, I'm Youssef Elmasry!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
@@ -17,9 +17,7 @@
 
 **About me**
 
-- 💼 FLutter Developer  at [Impact business solutions](https://impact.eg/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 💼 Flutter Developer  at [Impact business solutions](https://impact.eg/)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
