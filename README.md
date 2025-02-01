@@ -60,8 +60,7 @@ hobbies: ["Gaming", "GYM", "Art", "Horror"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/thepiyushmalhotra/wasp2012/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
