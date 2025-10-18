@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasp2012&label=Profile%20views&color=0e75b6&style=flat" alt="wasp2012" /> </p>
 
 
-- 🌱 I’m currently learning **Android Development**
-
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **joe.elmasry2000@gmail.com**
+- 📫 How to reach me **devyoussefelmasry@gmail.com**
+
+- ✨ Portfolio **https://wasp2012.github.io/my-portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
